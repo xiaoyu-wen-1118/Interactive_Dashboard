@@ -15,7 +15,7 @@ When college students reach the point of contemplating furthering their studies 
 
 Our application aims to utilize our academic dataset to explore and provide answer to the above questions easily. The widgets are arranged in a logical order, allowing users to begin their search with their questions in mind. As they scroll down the website, the answers to their questions become increasingly clear. In the end, users can choose to save their search results in the application for future reference.
 
-![outcome of the applicant](https://github.com/CS411DSO-SP23/XiaoyuWen_WeiDai/blob/main/outcome.png)
+![dashboard_demo](https://github.com/xiaoyu-wen-1118/Interactive_Dashboard/blob/main/dashboard_demo.png)
 
 The **"keyword"** feature in our dataset serves as the main input for our application as it connects both *faculty* table and *publication* table in the dataset. We use **Plotly Dash** as our front-end and different types of databases such as **MySQL, MongoDB,** and **Neo4j** as our back-end. We create **seven** widgets, including two **updating widgets** and two pairs of **multi-database querying widgets**.
 
