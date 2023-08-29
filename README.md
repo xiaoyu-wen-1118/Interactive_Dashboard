@@ -37,7 +37,7 @@ We recommend using "pip install" to install `NetworkX`, as there may be version 
 
 Since our scenario is assisting students in finding their graduate school and advisor, we attempt to utilize the natural thought process that a user goes through when searching for what they need. Here is a sketch of the user’s process.
 
-![Idea Design](https://github.com/CS411DSO-SP23/XiaoyuWen_WeiDai/blob/main/idea_design.jpg)
+![Idea Design](https://github.com/xiaoyu-wen-1118/Interactive_Dashboard/blob/main/idea_design.jpg)
 
 ### 4.2	 Layout Design: 
 
